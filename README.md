@@ -4,8 +4,7 @@ Read IP information of all equipments
 #### Purpose
 -  Collect the IP information from All Tester
 -  Remove tasks that repeatedly checked
-<img width="550" alt="image" src="https://github.com/user-attachments/assets/561dde13-1123-42d3-8d02-708923c97abc">
-
+<img width="549" alt="image" src="https://github.com/user-attachments/assets/dfa27591-2c44-4bcd-9050-57d7ba84c0b7">
 
 #### Knowledge
 - Use the right code for the desired Data operation 
